@@ -40,3 +40,16 @@
 .right{
     width:50%;
 }
+
+input{
+    display: block;
+    width:16rem;
+    padding:0.2rem;
+    margin:1.2rem 1rem;
+}
+
+#form{
+    margin:2rem 2.5rem;
+    background: white;
+    padding:.2rem;
+}
